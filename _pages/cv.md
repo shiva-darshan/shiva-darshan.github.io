@@ -11,49 +11,76 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Applied Mathematics, CERMICS École nationale des ponts et chaussées ParisTech, started 2022
+* M2 Mathématiques de l'Aléatoire finalité probabilités (Mathematics of Randomness specialization Probability theory), Université Paris-Saclay
+* M1 Mathématiques voie Jacques Hadamard, École Polytechnique/IP Paris
+* B.A. Journalism and Mathematics, New York University
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April--July 2022: M2 Stage (Masters Research Internship)
+  * CEREMADE Université Paris-Dauphine
+  * Topic: Periodically forced harmonic and anharmonic atom chains
+  * Supervisor: Stefano Olla and Alessandra Iacobucci
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* April--July 2021: M1 Stage (Masters Research Internship)
+  * CERMICS École des Ponts/Inria Paris
+  * Topic:Application of coupling methods to reduce the variance in the computation of linear response in non-equilibrium systems in Statistical Physics
+  * Supervisor: Gabriel Stoltz
+
+* November 2019--March 2020: Post-bac Research Project
+  * Institut Denis Poisson
+  * Topic: Two-species Lotka-Volterra system in randomly switching environment
+  * Supervisor: Florent Malrieu
+
+* June--September 2019: Undergraduate Research Project
+  * NYU Courant
+  * Topic: Monte Carlo sampling methods for probability measures on manifolds
+  * Supervisor: Miranda Holmes-Cerfon
+
+* June--July 2018: Summer Undergraduate Research Experience         
+  * Carnegie Mellon Dept of Statistics and Data Science
+  * Topic: Analyzing Trends in Exploitation Patterns in Human Trafficking
+
+Teaching experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* October 2022--Present: Chargée du PC (Recitation Leader)
+  * École des Ponts
+  * Courses: Statistiques numériques (numerical statistics)
 
-Publications
+* October 2019--March 2020: Assistant d'Anglais (English Teaching Assistant)
+  * Teaching Assistant Program in France 
+  * College Montaigne in Tours, France and College Roger Jahan in Descartes, France
+
+* September 2018--May 2019: Department Math Tutor
+  * NYU Courant
+  * 
+
+* April 2016--May 2019: Volunteer Tutor
+  * The Petey Greene Program at Rikers Island
+
+* October 2015 – June 2017: Middle School Teaching Assistant
+  * America Reads
+  * Tompkins Square Middle School in New York, NY, USA
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+Talks and Posters
 ======
-  <ul>{% for post in site.talks %}
+<ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
