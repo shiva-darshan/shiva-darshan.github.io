@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shiva DARSHAN"
   avatar           : "profile.png"
-  bio              : "PhD Student at CERMICS École des Ponts advised by [Gabriel Stoltz](https://cermics-lab.enpc.fr/gabriel-stoltz/) and [Stefano Olla](https://www.ceremade.dauphine.fr/~olla/) (CEREMADE Université Paris-Dauphine). Part of the Inria [MATHERIALS](https://team.inria.fr/matherials/) (MATHematics for MathERIALS) team and the ANR [SINEQ](https://sites.google.com/view/aleiac/anr-sineq) (SImulating NonEQuilibrium stochastic dynamics) project" 
+  bio              : "PhD Student at CERMICS École des Ponts, Inria MATHERIALS team, ANR SINEQ Project" 
   location         : "Paris, France"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
