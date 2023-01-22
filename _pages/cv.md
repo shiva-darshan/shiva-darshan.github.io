@@ -44,7 +44,7 @@ Research experience
 
 Teaching experience
 ======
-* October 2022--Present: Chargée du PC (Recitation Leader)
+* October 2022-- January 2023: Chargée du PC (Recitation Leader)
   * École des Ponts
   * Courses: Statistiques numériques (numerical statistics)
 
@@ -54,14 +54,12 @@ Teaching experience
 
 * September 2018--May 2019: Department Math Tutor
   * NYU Courant
-  * 
 
 * April 2016--May 2019: Volunteer Tutor
-  * The Petey Greene Program at Rikers Island
+  * The Petey Greene Program at Rikers Island in Queens, NY, USA
 
 * October 2015 – June 2017: Middle School Teaching Assistant
-  * America Reads
-  * Tompkins Square Middle School in New York, NY, USA
+  * America Reads Program at Tompkins Square Middle School in New York, NY, USA
 
 <!-- Publications
 ======
