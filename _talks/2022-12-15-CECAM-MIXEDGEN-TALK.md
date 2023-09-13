@@ -8,4 +8,4 @@ date: 2022-12-15
 location: "On-Line"
 ---
 
-[recording]() [slides](/files/2022-12-15-CECAM-MIXEDGEN-TALK.pdf)
+[recording](https://youtu.be/15M_pILzJfM?si=Felx9NUvwTNtvVX7&t=7025) [slides](/files/2022-12-15-CECAM-MIXEDGEN-TALK.pdf)
