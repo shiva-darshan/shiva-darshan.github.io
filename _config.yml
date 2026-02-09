@@ -11,7 +11,7 @@ title                    : "Shiva Darshan"
 title_separator          : "-"
 name                     : &name "Shiva DARSHAN"
 description              : &description "Post-Doc ESSEC"
-url                      : https://shiva-darshan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://shiva-darshan.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shiva-darshan/shiva-darshan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=lLFYA8wAAAAJ"
-  email            : "FIRSTNAME.LASTNAME@enpc.fr"
+  email            : "FIRSTNAME.LASTNAME@essec.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
