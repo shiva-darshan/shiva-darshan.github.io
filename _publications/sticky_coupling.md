@@ -1,7 +1,7 @@
 ---
 title: "Sticky coupling as a control variate for sensitivity analysis"
-collection: preprints
-permalink: /preprints/2409.15500
+collection: publications
+permalink: /publications/2409.15500
 date: 2024-09-23
 paperurl: 'https://arxiv.org/abs/2409.15500'
 ---

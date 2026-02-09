@@ -1,7 +1,7 @@
 ---
 title: "Periodically forced pinned anharmonic atom chains"
-collection: preprints
-permalink: /preprints/2507.11319
+collection: publications
+permalink: /publications/2507.11319
 date: 2025-07-15
 paperurl: 'https://arxiv.org/abs/2507.11319'
 ---
