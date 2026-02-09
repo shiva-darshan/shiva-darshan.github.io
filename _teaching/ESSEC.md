@@ -3,7 +3,7 @@ title: "ESSEC"
 collection: teaching
 type: "École de commerce"
 permalink: /teaching/ESSEC
-venue: "ENPC"
+venue: "ESSEC"
 date: 2026-01-01
 location: "Champs-sur-Marne, France"
 ---
