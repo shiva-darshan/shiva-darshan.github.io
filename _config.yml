@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shiva Darshan"
 title_separator          : "-"
 name                     : &name "Shiva DARSHAN"
-description              : &description "PhD Student CERMICS École des Ponts, Inria MATHERIALS, ANR SINEQ"
+description              : &description "Post-Doc ESSEC"
 url                      : https://shiva-darshan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shiva-darshan/shiva-darshan.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Shiva DARSHAN"
   avatar           : "profile.png"
-  bio              : "PhD Student at CERMICS École des Ponts, Inria MATHERIALS team, ANR SINEQ Project" 
+  bio              : "Post-Doc ESSEC" 
   location         : "Paris, France"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=lLFYA8wAAAAJ"
   email            : "FIRSTNAME.LASTNAME@enpc.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0009-2467-2403"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -209,24 +209,24 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # # _teaching
-  # - scope:
-  #     path: ""
-  #     type: teaching
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: false
-  # # _publications
-  # - scope:
-  #     path: ""
-  #     type: publications
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: false
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: false
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: false
   # # _portfolio
   # - scope:
   #     path: ""
