@@ -11,6 +11,6 @@ You can also find my articles and preprints on the <a href="https://arxiv.org/a/
 
 {% include base_path %}
 
-{% for post in site.preprints reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
